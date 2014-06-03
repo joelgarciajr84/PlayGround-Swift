@@ -65,5 +65,12 @@ for sistema in sistemas{
             
         }
 }
+//Funções
+    
+func videogames(nome:String, fabricante:String) {
+    
+   println("Eu teho um", nome ,"da", fabricante)
+}
+videogames("xbox", "Microsoft")
 
 
